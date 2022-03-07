@@ -140,7 +140,7 @@ Here's why:
     <img src="images/linkedin.png" alt="Logo"  >
   </a>
 
-Project Link: [https://github.com/Mamuntheprogrammer/PyGems-Office-Utilities](https://github.com/Mamuntheprogrammer/PyGems-Office-Utilitiese)
+Project Link: [https://github.com/Mamuntheprogrammer/PyGems-Office-Utilities](https://github.com/Mamuntheprogrammer/PyGems-Office-Utilities)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
