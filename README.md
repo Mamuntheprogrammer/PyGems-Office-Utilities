@@ -1,4 +1,28 @@
 
+<div align="center">
+  <a href="https://github.com/Mamuntheprogrammer/PyGems-Office-Utilities/graphs/contributors">
+    <img src="images/contributors.svg" alt="contributors" height="52" width="150" >
+  </a>
+  <a href="https://github.com/Mamuntheprogrammer/PyGems-Office-Utilities/network/members">
+    <img src="images/forks.svg" alt="forks" height="52" width="150"  >
+  </a>
+  <a href="https://github.com/Mamuntheprogrammer/PyGems-Office-Utilities/stargazers">
+    <img src="images/stars.svg" alt="Logo" height="52" width="150"  >
+  </a>
+  <a href="https://github.com/Mamuntheprogrammer/PyGems-Office-Utilities/issues">
+    <img src="images/issues.svg" alt="Logo" height="52" width="150"  >
+  </a>
+  <a href="https://github.com/Mamuntheprogrammer/PyGems-Office-Utilities/blob/main/LICENSE">
+    <img src="images/license.svg" alt="license" height="52" width="150"  >
+  </a>
+  <a href="https://www.linkedin.com/in/mamuntheprogrammer/">
+    <img src="images/linkedin.svg" alt="Logo" height="52" width="150"  >
+  </a>
+</div>
+
+
+
+
 
 
 <div id="top"></div>
@@ -9,6 +33,12 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+
+
+
+
+
+
 
 
 <!-- PROJECT LOGO -->
@@ -223,7 +253,7 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://github.com/Mamuntheprogrammer/PyGems-Office-Utilities/blob/main/images/contributors.svg?style=for-the-badge
 [contributors-url]: https://github.com/Mamuntheprogrammer/PyGems-Office-Utilities/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
 [forks-url]: https://github.com/Mamuntheprogrammer/PyGems-Office-Utilities/network/members
