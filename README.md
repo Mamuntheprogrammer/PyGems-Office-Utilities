@@ -1,22 +1,22 @@
 
-<div align="center">
+<div style="margin:0px;"  >
   <a href="https://github.com/Mamuntheprogrammer/PyGems-Office-Utilities/graphs/contributors">
-    <img src="images/contributors.svg" alt="contributors" height="52" width="150" >
+    <img src="images/contributors.svg" alt="contributors" width="150px" height="80px" >
   </a>
   <a href="https://github.com/Mamuntheprogrammer/PyGems-Office-Utilities/network/members">
-    <img src="images/forks.svg" alt="forks" height="52" width="150"  >
+    <img src="images/forks.svg" alt="forks" width="150px" height="52px"  >
   </a>
   <a href="https://github.com/Mamuntheprogrammer/PyGems-Office-Utilities/stargazers">
-    <img src="images/stars.svg" alt="Logo" height="52" width="150"  >
+    <img src="images/stars.svg" alt="Logo" width="150px" height="52px"  >
   </a>
   <a href="https://github.com/Mamuntheprogrammer/PyGems-Office-Utilities/issues">
-    <img src="images/issues.svg" alt="Logo" height="52" width="150"  >
+    <img src="images/issues.svg" alt="Logo" width="150px" height="52px"  >
   </a>
   <a href="https://github.com/Mamuntheprogrammer/PyGems-Office-Utilities/blob/main/LICENSE">
-    <img src="images/license.svg" alt="license" height="52" width="150"  >
+    <img src="images/license.svg" alt="license" width="150px" height="52px"  >
   </a>
   <a href="https://www.linkedin.com/in/mamuntheprogrammer/">
-    <img src="images/linkedin.svg" alt="Logo" height="52" width="150"  >
+    <img src="images/linkedin.svg" alt="Logo" width="150px" height="52px"  >
   </a>
 </div>
 
@@ -26,13 +26,13 @@
 
 
 <div id="top"></div>
-
+<!-- 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][linkedin-url] -->
 
 
 
