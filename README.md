@@ -1,22 +1,22 @@
 
-<div style="margin:0px;"  >
+<div  align="center" >
   <a href="https://github.com/Mamuntheprogrammer/PyGems-Office-Utilities/graphs/contributors">
-    <img src="images/contributors.svg" alt="contributors" width="150px" height="80px" >
+    <img src="images/contributors.png" alt="contributors"  >
   </a>
   <a href="https://github.com/Mamuntheprogrammer/PyGems-Office-Utilities/network/members">
-    <img src="images/forks.svg" alt="forks" width="150px" height="52px"  >
+    <img src="images/forks.png" alt="forks"  >
   </a>
   <a href="https://github.com/Mamuntheprogrammer/PyGems-Office-Utilities/stargazers">
-    <img src="images/stars.svg" alt="Logo" width="150px" height="52px"  >
+    <img src="images/stars.png" alt="Logo"  >
   </a>
   <a href="https://github.com/Mamuntheprogrammer/PyGems-Office-Utilities/issues">
-    <img src="images/issues.svg" alt="Logo" width="150px" height="52px"  >
+    <img src="images/issues.png" alt="Logo"   >
   </a>
   <a href="https://github.com/Mamuntheprogrammer/PyGems-Office-Utilities/blob/main/LICENSE">
-    <img src="images/license.svg" alt="license" width="150px" height="52px"  >
+    <img src="images/license.png" alt="license"   >
   </a>
   <a href="https://www.linkedin.com/in/mamuntheprogrammer/">
-    <img src="images/linkedin.svg" alt="Logo" width="150px" height="52px"  >
+    <img src="images/linkedin.png" alt="Logo"  >
   </a>
 </div>
 
